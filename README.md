@@ -2,7 +2,7 @@
 
 ## Assignment
 
-For the assignment to extend the existing flows for the 2021 year, I have used [this yaml flow file](./extended_scheduled_flow.yaml) which is an extension to the existing 06_gsc_scheduled_flow.yaml file. The new flow file as discussed during the lecture, removes all the unnecessary tables created during the entire process. I used backfills to run the flow for the 2021 year.
+For the assignment to extend the existing flows for the 2021 year, I have used [this yaml flow file](./extended_scheduled_flow.yaml) which is an extension to the existing 06_gcp_taxi_scheduled.yaml file. The new flow file as discussed during the lecture, removes all the unnecessary tables created during the entire process. I used backfills to run the flow for the 2021 year.
 
 ## Quiz
 
